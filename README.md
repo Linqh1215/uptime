@@ -40,5 +40,5 @@ server {
 ```
 ## 鸣谢:
 
-[x-dr](https://github.com/x-dr)
+[yb](https://github.com/yb)
 
